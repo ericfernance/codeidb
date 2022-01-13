@@ -3,10 +3,10 @@
 namespace Codeidb;
 
 class Db{
-    protected $db;
+    protected $db
 
     public function __construct($config)
     {
-        
+
     }
 }
