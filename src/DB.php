@@ -37,7 +37,6 @@ namespace Codeidb\Codeidb;
  * @since	Version 1.0.0
  * @filesource
  */
-defined('BASEPATH') OR exit('No direct script access allowed');
 
 /**
  * Initialize the database
