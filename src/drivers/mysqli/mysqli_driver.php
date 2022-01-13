@@ -1,4 +1,6 @@
 <?php
+
+namespace Codeidb\Codeidb;
 /**
  * CodeIgniter
  *

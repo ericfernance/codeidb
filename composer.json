@@ -13,7 +13,10 @@
   },
   "autoload": {
     "psr-0": {
-      "Codeidb\\Codeidb\\":"src"
-    }
+      "Codeidb\\Codeidb\\": "src"
+    },
+    "files": [
+      "src/DB.php"
+    ]
   }
 }
