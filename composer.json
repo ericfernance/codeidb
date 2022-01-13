@@ -1,0 +1,19 @@
+{
+  "name": "ericfernance/codeidb",
+  "description": "This is a fork of the CI 3 database library.  I needed this because I liked the CI 3 database library but was no longer using the rest of CI 3",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "eric",
+      "email": "thisisericrobert@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-0": {
+      "Codeidb\\Codeidb\\":"src"
+    }
+  }
+}
